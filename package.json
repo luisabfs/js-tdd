@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Lib from  JS with TDD course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisabfs/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Luísa Barros <qlullyq@gmail.com> (https://luisabfs.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luisabfs/js-tdd/issues"
+  },
+  "homepage": "https://github.com/luisabfs/js-tdd#readme"
+}
